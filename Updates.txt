@@ -1,12 +1,16 @@
 
-Creditos a
+Creditos para:
 	Pedro64 (Diretor)
 	Jay (Ajudante)
 	
-Engine usada ( Godot Engine )
+Engines and Program Used,
+	(Godot Engine)
+	(Aseprite)
 
-Versão 0.1.0 > Experimental
+Game Versão 0.1.0 > Experimental
 
-Feature Experimental:
+Feature Experimental (Tests):
 	Sistema Day & Night
 	Move & Slide And Colide
+	IA Melhorada
+	Dsesempenho Melhorado
