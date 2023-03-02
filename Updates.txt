@@ -1,5 +1,8 @@
 
-Creditos a ( Pedro64(Diretor) )
+Creditos a
+	Pedro64 (Diretor)
+	Jay (Ajudante)
+	
 Engine usada ( Godot Engine )
 
 Versão 0.1.0 > Experimental
