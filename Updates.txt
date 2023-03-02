@@ -1,0 +1,9 @@
+
+Creditos a ( Pedro64(Diretor) )
+Engine usada ( Godot Engine )
+
+Versão 0.1.0 > Experimental
+
+Feature Experimental:
+	Sistema Day & Night
+	Move & Slide And Colide
